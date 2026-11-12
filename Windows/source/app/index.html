@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:">
+  <title>DaySpindle</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="app">
+    <aside id="sidebar">
+      <div id="sidebar-scroll"></div>
+      <div id="sidebar-clear"></div>
+      <div id="timezone"></div>
+      <div id="instructions" data-ctl="Instructions"></div>
+    </aside>
+    <div id="sidebar-handle" class="resize-handle"></div>
+    <main id="main">
+      <div id="tabbar" data-ctl="Tab bar"></div>
+      <div id="toolbar"></div>
+      <div id="filterbar"></div>
+      <div id="messages"></div>
+      <div id="chart"></div>
+      <div id="welcome"></div>
+    </main>
+    <div id="inspector-handle" class="resize-handle"></div>
+    <aside id="inspector" data-ctl="Details pane"></aside>
+  </div>
+  <div id="overlay"></div>
+  <script src="model.js"></script>
+  <script src="store.js"></script>
+  <script src="theme.js"></script>
+  <script src="chart.js"></script>
+  <script src="ui.js"></script>
+</body>
+</html>

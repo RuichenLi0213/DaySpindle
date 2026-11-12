@@ -1,0 +1,335 @@
+{
+  "collapsed": [],
+  "content": {
+    "categories": [
+      {
+        "colorHex": "#2F6FEB",
+        "id": "3DCEA488-C3D7-4BAB-A91E-726C4FCCC6E5",
+        "name": "Work"
+      },
+      {
+        "colorHex": "#30A46C",
+        "id": "CA9AFEDE-6480-49CA-843D-C27BD19F6510",
+        "name": "Personal"
+      },
+      {
+        "colorHex": "#F2811D",
+        "id": "6CE7A43E-8B89-4253-A645-B5E5D50256D8",
+        "name": "Home"
+      }
+    ],
+    "dependencies": [
+      {
+        "from": "8F21C329-6648-44A4-AE1B-DC1E1CB7BBE2",
+        "id": "24986930-5A47-4360-BC0C-60CD70B980E3",
+        "to": "34F84E5F-CAD6-4A78-AAB9-81028E3861D5",
+        "type": "FS"
+      },
+      {
+        "from": "34F84E5F-CAD6-4A78-AAB9-81028E3861D5",
+        "id": "32167350-12EA-4B46-8456-65F357BD0C04",
+        "to": "5F38F789-6F97-40A3-A7A2-1EC56855677A",
+        "type": "FS"
+      },
+      {
+        "colorHex": "#E5484D",
+        "from": "5F38F789-6F97-40A3-A7A2-1EC56855677A",
+        "id": "9FB2A523-8390-430A-8B8B-9240F2FACF02",
+        "to": "58036B55-7682-48F5-8D30-0957637BC61A",
+        "type": "FS",
+        "width": 2
+      },
+      {
+        "from": "05A728B1-19D2-4FD6-A562-42D52BC55DA1",
+        "fromSide": "bottom",
+        "id": "AD00DBBA-07EC-4166-9E85-FCA905C38D91",
+        "to": "58036B55-7682-48F5-8D30-0957637BC61A",
+        "toSide": "top",
+        "type": "FS"
+      },
+      {
+        "from": "58036B55-7682-48F5-8D30-0957637BC61A",
+        "id": "3F711600-0A34-4162-A752-3B120438C436",
+        "to": "B64652F7-8597-4978-938F-2D5809E70E03",
+        "toSide": "top",
+        "type": "FS"
+      },
+      {
+        "from": "B3D74BA9-59A4-4E06-8AE3-D62CCF5EFBD0",
+        "id": "D825DEA1-C701-422F-8B5F-588087EB4678",
+        "to": "588832D5-9195-47EA-A120-07AF77A84F5F",
+        "type": "FS"
+      },
+      {
+        "from": "588832D5-9195-47EA-A120-07AF77A84F5F",
+        "id": "C18D1D92-2199-40AE-9B4A-8196B2DAE389",
+        "to": "9DADFDBE-BC09-4870-8AC6-BF36F4AAB7BB",
+        "type": "FS"
+      },
+      {
+        "from": "9DADFDBE-BC09-4870-8AC6-BF36F4AAB7BB",
+        "id": "03000269-99B9-461E-94AF-87EFFFFBA042",
+        "to": "EF67ED83-5F27-4469-9E35-13068106F32B",
+        "toSide": "top",
+        "type": "FS"
+      },
+      {
+        "from": "4AC18AA8-38B4-482C-9617-A8C5CB09046F",
+        "id": "983D1BD6-FB2B-4FFD-A32E-DA1D7090E231",
+        "to": "4AD62B85-4D1B-4315-8751-375501B3D9F8",
+        "type": "FS"
+      },
+      {
+        "from": "4AD62B85-4D1B-4315-8751-375501B3D9F8",
+        "fromSide": "bottom",
+        "id": "B5E1EE99-D250-4196-B75A-F16C14E06A6D",
+        "to": "E94F570A-CAD7-42CC-B635-4D879617F1C1",
+        "type": "FS"
+      },
+      {
+        "colorHex": "#8E4EC6",
+        "from": "B64652F7-8597-4978-938F-2D5809E70E03",
+        "fromSide": "bottom",
+        "id": "66BDC836-7C6B-4BFE-8F90-BE19B03B0B26",
+        "to": "E94F570A-CAD7-42CC-B635-4D879617F1C1",
+        "toSide": "top",
+        "type": "SS"
+      }
+    ],
+    "tags": [
+      "design",
+      "dev",
+      "travel",
+      "writing"
+    ],
+    "tasks": [
+      {
+        "categoryID": "3DCEA488-C3D7-4BAB-A91E-726C4FCCC6E5",
+        "end": "2026-12-21",
+        "id": "F34B76A8-874E-4561-AC42-C6FAC617AE04",
+        "kind": "group",
+        "notes": "A group: it spans everything inside it. Drag it to move everything at once.",
+        "start": "2026-11-09",
+        "tags": [],
+        "title": "Website redesign"
+      },
+      {
+        "categoryID": "3DCEA488-C3D7-4BAB-A91E-726C4FCCC6E5",
+        "end": "2026-11-13",
+        "id": "8F21C329-6648-44A4-AE1B-DC1E1CB7BBE2",
+        "notes": "Talk to five customers and look at three competitors.",
+        "parentID": "F34B76A8-874E-4561-AC42-C6FAC617AE04",
+        "start": "2026-11-09",
+        "tags": [
+          "design"
+        ],
+        "title": "Research"
+      },
+      {
+        "categoryID": "3DCEA488-C3D7-4BAB-A91E-726C4FCCC6E5",
+        "end": "2026-11-20",
+        "id": "34F84E5F-CAD6-4A78-AAB9-81028E3861D5",
+        "parentID": "F34B76A8-874E-4561-AC42-C6FAC617AE04",
+        "start": "2026-11-16",
+        "tags": [
+          "design"
+        ],
+        "title": "Wireframes"
+      },
+      {
+        "categoryID": "3DCEA488-C3D7-4BAB-A91E-726C4FCCC6E5",
+        "end": "2026-11-19",
+        "id": "A4F8E252-290B-4CA4-9822-83EA0D4717C1",
+        "kind": "milestone",
+        "notes": "A milestone inside a task is drawn on the task's bar.",
+        "parentID": "34F84E5F-CAD6-4A78-AAB9-81028E3861D5",
+        "start": "2026-11-19",
+        "tags": [],
+        "title": "Design review"
+      },
+      {
+        "categoryID": "3DCEA488-C3D7-4BAB-A91E-726C4FCCC6E5",
+        "end": "2026-12-04",
+        "id": "5F38F789-6F97-40A3-A7A2-1EC56855677A",
+        "parentID": "F34B76A8-874E-4561-AC42-C6FAC617AE04",
+        "start": "2026-11-23",
+        "tags": [
+          "design"
+        ],
+        "title": "Visual design"
+      },
+      {
+        "categoryID": "3DCEA488-C3D7-4BAB-A91E-726C4FCCC6E5",
+        "end": "2026-12-01",
+        "id": "05A728B1-19D2-4FD6-A562-42D52BC55DA1",
+        "kind": "milestone",
+        "parentID": "5F38F789-6F97-40A3-A7A2-1EC56855677A",
+        "start": "2026-12-01",
+        "tags": [],
+        "title": "Client feedback"
+      },
+      {
+        "categoryID": "3DCEA488-C3D7-4BAB-A91E-726C4FCCC6E5",
+        "end": "2026-12-18",
+        "id": "58036B55-7682-48F5-8D30-0957637BC61A",
+        "parentID": "F34B76A8-874E-4561-AC42-C6FAC617AE04",
+        "start": "2026-12-07",
+        "tags": [
+          "dev"
+        ],
+        "title": "Build pages"
+      },
+      {
+        "categoryID": "3DCEA488-C3D7-4BAB-A91E-726C4FCCC6E5",
+        "end": "2026-12-21",
+        "id": "B64652F7-8597-4978-938F-2D5809E70E03",
+        "kind": "milestone",
+        "parentID": "F34B76A8-874E-4561-AC42-C6FAC617AE04",
+        "start": "2026-12-21",
+        "tags": [],
+        "title": "Launch"
+      },
+      {
+        "categoryID": "3DCEA488-C3D7-4BAB-A91E-726C4FCCC6E5",
+        "end": "2026-11-18",
+        "endTime": "11:00",
+        "id": "BF7B347A-C91E-41CE-A564-6FC105AD8E4F",
+        "location": "Video call",
+        "notes": "Entered in Berlin time. Like Calendar, DaySpindle shows it in the time zone you choose (bottom of the sidebar).",
+        "start": "2026-11-18",
+        "startTime": "10:00",
+        "tags": [],
+        "timeZone": "Europe/Berlin",
+        "title": "Call with the Berlin office"
+      },
+      {
+        "categoryID": "CA9AFEDE-6480-49CA-843D-C27BD19F6510",
+        "end": "2026-12-16",
+        "id": "DBBD3021-0AB3-4C1F-8597-6A41A7AF4328",
+        "kind": "group",
+        "start": "2026-11-10",
+        "tags": [],
+        "title": "Conference talk"
+      },
+      {
+        "categoryID": "CA9AFEDE-6480-49CA-843D-C27BD19F6510",
+        "completed": true,
+        "end": "2026-11-13",
+        "id": "B3D74BA9-59A4-4E06-8AE3-D62CCF5EFBD0",
+        "notes": "Completed (sent a day early), so it is in the Archive (left sidebar). Unmark it there to return it to its place in the group.",
+        "parentID": "DBBD3021-0AB3-4C1F-8597-6A41A7AF4328",
+        "start": "2026-11-10",
+        "tags": [
+          "writing"
+        ],
+        "title": "Submit abstract"
+      },
+      {
+        "categoryID": "CA9AFEDE-6480-49CA-843D-C27BD19F6510",
+        "completed": true,
+        "end": "2026-11-13",
+        "id": "2FF7CCA0-FFA0-442D-8797-A289331CBAB1",
+        "kind": "milestone",
+        "parentID": "B3D74BA9-59A4-4E06-8AE3-D62CCF5EFBD0",
+        "start": "2026-11-13",
+        "tags": [],
+        "title": "Deadline"
+      },
+      {
+        "categoryID": "CA9AFEDE-6480-49CA-843D-C27BD19F6510",
+        "end": "2026-12-11",
+        "id": "588832D5-9195-47EA-A120-07AF77A84F5F",
+        "parentID": "DBBD3021-0AB3-4C1F-8597-6A41A7AF4328",
+        "start": "2026-11-30",
+        "tags": [
+          "writing"
+        ],
+        "title": "Prepare slides"
+      },
+      {
+        "categoryID": "CA9AFEDE-6480-49CA-843D-C27BD19F6510",
+        "end": "2026-12-04",
+        "id": "9E09B2F3-1EC5-4C87-9117-BC5F1658E018",
+        "kind": "milestone",
+        "parentID": "588832D5-9195-47EA-A120-07AF77A84F5F",
+        "start": "2026-12-04",
+        "tags": [],
+        "title": "Mid-way check"
+      },
+      {
+        "categoryID": "CA9AFEDE-6480-49CA-843D-C27BD19F6510",
+        "end": "2026-12-15",
+        "id": "9DADFDBE-BC09-4870-8AC6-BF36F4AAB7BB",
+        "parentID": "DBBD3021-0AB3-4C1F-8597-6A41A7AF4328",
+        "start": "2026-12-12",
+        "tags": [],
+        "title": "Rehearse"
+      },
+      {
+        "categoryID": "CA9AFEDE-6480-49CA-843D-C27BD19F6510",
+        "end": "2026-12-16",
+        "id": "EF67ED83-5F27-4469-9E35-13068106F32B",
+        "kind": "milestone",
+        "location": "Main hall",
+        "parentID": "DBBD3021-0AB3-4C1F-8597-6A41A7AF4328",
+        "start": "2026-12-16",
+        "tags": [],
+        "title": "Talk day"
+      },
+      {
+        "categoryID": "6CE7A43E-8B89-4253-A645-B5E5D50256D8",
+        "end": "2026-12-24",
+        "id": "F697C9E0-6D83-474C-9794-2777EF166FD2",
+        "kind": "group",
+        "start": "2026-12-14",
+        "tags": [],
+        "title": "Moving house"
+      },
+      {
+        "categoryID": "6CE7A43E-8B89-4253-A645-B5E5D50256D8",
+        "end": "2026-12-19",
+        "id": "4AC18AA8-38B4-482C-9617-A8C5CB09046F",
+        "parentID": "F697C9E0-6D83-474C-9794-2777EF166FD2",
+        "start": "2026-12-14",
+        "tags": [],
+        "title": "Pack boxes"
+      },
+      {
+        "categoryID": "6CE7A43E-8B89-4253-A645-B5E5D50256D8",
+        "end": "2026-12-20",
+        "id": "4AD62B85-4D1B-4315-8751-375501B3D9F8",
+        "kind": "milestone",
+        "parentID": "F697C9E0-6D83-474C-9794-2777EF166FD2",
+        "start": "2026-12-20",
+        "tags": [],
+        "title": "Moving day"
+      },
+      {
+        "categoryID": "6CE7A43E-8B89-4253-A645-B5E5D50256D8",
+        "end": "2026-12-24",
+        "id": "E94F570A-CAD7-42CC-B635-4D879617F1C1",
+        "parentID": "F697C9E0-6D83-474C-9794-2777EF166FD2",
+        "start": "2026-12-21",
+        "tags": [],
+        "title": "Unpack"
+      },
+      {
+        "categoryID": "CA9AFEDE-6480-49CA-843D-C27BD19F6510",
+        "end": "2027-01-02",
+        "id": "01DADA8B-78AD-4372-A57F-F4205BFC8CB4",
+        "location": "Lisbon",
+        "start": "2026-12-26",
+        "tags": [
+          "travel"
+        ],
+        "title": "Winter holiday"
+      }
+    ]
+  },
+  "hiddenCategories": [],
+  "version": 3,
+  "window": {
+    "end": "2027-01-02",
+    "start": "2026-11-08"
+  }
+}

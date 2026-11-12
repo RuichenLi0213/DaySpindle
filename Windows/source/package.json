@@ -1,0 +1,15 @@
+{
+  "name": "dayspindle",
+  "productName": "DaySpindle",
+  "version": "2.1.0",
+  "description": "DaySpindle: a local Gantt chart of groups, tasks and milestones (Windows edition).",
+  "main": "app/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "45.2.3"
+  },
+  "author": "Ruichen Li",
+  "license": "MIT"
+}
