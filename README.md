@@ -2,7 +2,7 @@
   <img src="docs/icon.png" width="128" height="128" alt="DaySpindle app icon">
 </p>
 
-# DaySpindle v2.0
+# DaySpindle v2.1
 
 A Gantt chart task manager for macOS and Windows. Plan **groups**, **tasks** and **milestones** on a day-by-day timeline. Join them with **dependency arrows**, color them by category, tag them, and drag their bars to reschedule.
 
